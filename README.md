@@ -4,7 +4,7 @@ Error 500: Internal Server Error.
 ```c
 int strSize = 8 + 1;
 char* buff = (char*)calloc(strSize, sizeof(char));
-strcpy(buff, "vxnetrip")
+strcpy(buff, "azendx")
 printf(f'Follow %s on Github\n', buff);
 free(buff);
 ```
@@ -22,9 +22,9 @@ compilation terminated.
 <div align="center">
     <h2 align="center">⚡ Statistics</h2>
     <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=vxnetrip&show_icons=true&bg_color=00000000">
+        <img src="https://github-readme-stats.vercel.app/api?username=aztral-xyz&show_icons=true&bg_color=00000000">
     </div>
     <div>
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=vxnetrip&theme=tokyonight_duo&hide_border=true&mode=weekly">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=aztral-xyz&theme=tokyonight_duo&hide_border=true&mode=weekly">
     </div>
 </div>
