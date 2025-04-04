@@ -17,7 +17,7 @@ compilation terminated.
 📂・**Latest soon coming project**: GIVE ME IDEAS FOR PROJECTS ON DISCORD
 
 
-📩・**Want to reach? Add @azendx on [discord](https://discord.com/users/1344733728567464097)**
+📩・**Want to reach? Add @exual.dev on [discord](https://discord.com/users/1344733728567464097)**
 
 <div align="center">
     <h2 align="center">⚡ Statistics</h2>
