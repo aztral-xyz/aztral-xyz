@@ -4,7 +4,7 @@ Error 500: Internal Server Error.
 ```c
 int strSize = 8 + 1;
 char* buff = (char*)calloc(strSize, sizeof(char));
-strcpy(buff, "azendx")
+strcpy(buff, "Exual.dev")
 printf(f'Follow %s on Github\n', buff);
 free(buff);
 ```
